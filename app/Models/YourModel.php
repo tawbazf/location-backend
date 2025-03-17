@@ -1,0 +1,1 @@
+use Laravel\Scout\Searchable;
